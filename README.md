@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarioDutyFNF
+- 👋 Hi, I’m @MarioDutyFNF, you can call me SMG6
 - 👀 I’m interested in programming, sprite making, music
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
